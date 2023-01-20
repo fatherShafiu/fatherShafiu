@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fatherShafiu
 - 👀 I’m interested in Ruby and general programming stuff.
-- 🌱 I’m currently learning Ruby on rails and operating system design.
+- 🌱 I am a Backend and Frontend Software Engineer. Specialized in Web application development with immense emphasis on Ruby and Ruby on Rails.
 - 💞️ I’m looking to collaborate on Ruby on rails application and any other stuff programmable.
 - 📫 
 
